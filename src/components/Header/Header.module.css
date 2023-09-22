@@ -6,7 +6,7 @@
     align-items: center;
     justify-content: space-evenly;
     gap: 30px;
-    background-color: rgb(238, 244, 248);
+    background-color: rgb(221, 247, 254);
     min-height: 85vh;
 }
 .heading {
@@ -31,5 +31,5 @@ width: 400px;
 
 }
 .spanheader{
-    color:  rgb(137, 191, 220) 
+    color:  rgb(90, 155, 252) 
 }
